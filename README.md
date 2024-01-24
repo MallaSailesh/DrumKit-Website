@@ -1,3 +1,3 @@
-# Web-Devlopment-Advanced-JavaScript---DrumKit 
-
-link to the website :- https://mallasailesh.github.io/Web-Devlopment-Advanced-JavaScript---DrumKir/
+# Website 
+This involves playing the drums using a website . Done using javascript skills.
+link to the website :- https://mallasailesh.github.io/DrumKit-Website/
